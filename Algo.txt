@@ -1,0 +1,5 @@
+decide what brand of pizza
+call up pizza place
+choose toppings
+pickup pizza
+
